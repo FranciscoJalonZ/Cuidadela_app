@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'home_screen.dart';
+import 'package:cuidadela_app/home_screen.dart';  
 
 void main() {
   runApp(const CiudadelaApp());
@@ -22,7 +22,7 @@ class CiudadelaApp extends StatelessWidget {
           foregroundColor: Colors.white,
         ),
       ),
-      home: const HomeScreen(),
+      home: HomeScreen(),
     );
   }
 }
