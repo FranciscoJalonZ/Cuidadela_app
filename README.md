@@ -90,9 +90,9 @@ HomeScreen
 Desarrollo de aplicaciones Móviles — Flutter  
 2026
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f68d7b32-541d-451a-b59a-e5569f3bbd72" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6d801287-3333-427c-a6e1-d4097ccdbd7b" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a48e94a5-4e31-493e-9b0e-b21d70bf229e" />
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/7d2e5fe7-9a1c-4afc-8bbc-f56f39470d26" />
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/d534d9b3-741b-4fcd-8f04-a9956b072986" />
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/6e8577d4-dacd-4bb6-a7ee-dd3cb9b49f64" />
 
 
 ## 
